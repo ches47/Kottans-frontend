@@ -54,4 +54,10 @@ kottans-frontend Course 2020-2021
 
 [freeCodeCamp screenshot](https://github.com/ches47/kottans-frontend/blob/master/task_js_basics/task_js_basics2.jpg)
 
+## 6.DOM
+[JavaScript and the DOM]()
+
+[freecodecamp Algorithm Scripting Challenges]()
+
+
       
