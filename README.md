@@ -40,12 +40,12 @@ kottans-frontend Course 2020-2021
 ## 4.Responsive Web Design
 
 
-[Responsive Web Design screenshot]()
+[Responsive Web Design screenshot](https://github.com/ches47/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design1.png)
 
-[Flexbox froggy]()
+[Flexbox froggy](https://github.com/ches47/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design2.png)
 
 
-[GRID GARDEN]()
+[GRID GARDEN](https://github.com/ches47/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design3.png)
         
       
 ## 5.JavaScript Basics
